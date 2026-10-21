@@ -3,4 +3,4 @@ yfinance
 pandas
 requests
 feedparser
-streamlit-autorefresh.
+streamlit-autorefresh
